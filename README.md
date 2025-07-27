@@ -19,3 +19,17 @@ docker run --rm \
   --network none \
   adobe_1a_solution
 ```
+## output format
+{
+  "title": "Understanding AI",
+  "outline": [
+    { "level": "H1", "text": "Introduction", "page": 1 },
+    { "level": "H2", "text": "What is AI?", "page": 2 },
+    { "level": "H3", "text": "History of AI", "page": 3 }
+  ]
+}
+
+## Tech used
+1. Python 3.9
+2. PyMuPDF for PDF parsing
+3. Docker (amd64, CPU-only, offline)
