@@ -1,0 +1,60 @@
+{
+  "title": "Relational Algebra \u2013",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Relational Algebra \u2013",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Example:",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "https://www.exploredatabase.com/2020/04/relational-",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "algebra-in-database-solved-exercise.html",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Example:",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "Hospital Management System Scenario:",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "A hospital maintains a relational database to efficiently manage its operations, including patient",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "records, doctor schedules, and appointment bookings. The hospital consists of multiple",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "departments, each handling different specializations. Patients can book appointments with",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "doctors, and their medical records are tracked for diagnosis and treatment history.",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "The hospital management system consists of the following three primary relations:",
+      "page": 5
+    }
+  ]
+}
